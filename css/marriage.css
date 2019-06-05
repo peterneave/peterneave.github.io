@@ -3,6 +3,7 @@
     padding-bottom: 75%;
     height: 0;
     overflow: hidden;
+
 }
 
 .responsiveCal iframe {
@@ -13,6 +14,11 @@
     height: 250px;
 }
 
-.card-img-top {
-    width: 300px;
+.card {
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    color: rgb(72, 72, 102);
+
 }
