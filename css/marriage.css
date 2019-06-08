@@ -14,9 +14,28 @@
     height: 250px;
 }
 
+.jumbotron {
+    background: rgb(191, 196, 202);
+}
+
 .card {
     margin-bottom: 1.5rem;
 }
+
+.card .card-text {
+    font-size: 0.7rem;
+}
+
+.card .card-footer {
+    text-align: center;
+}
+
+
+.disabled img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
 
 h2 {
     color: rgb(72, 72, 102);
