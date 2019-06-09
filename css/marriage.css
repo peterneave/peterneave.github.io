@@ -36,8 +36,7 @@
     filter: alpha(opacity=50);
 }
 
-
 h2 {
-    color: rgb(72, 72, 102);
-
+    color: rgb(191, 196, 202);
+    text-transform: uppercase;
 }
