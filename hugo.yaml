@@ -16,21 +16,21 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: neave.dev
-  description: "neave.dev description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  description: "Professional site and developer blog for Peter Neave"
+  keywords: [Blog, Portfolio]
+  author: "Peter Neave"
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -57,13 +57,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Peter Neave
+    subtitle: ""
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: my image
     buttons:
       - name: Posts
         url: posts
@@ -76,12 +76,18 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/peterneave"
+    - name: instagram
+      url: "https://instagram.com/peter_neave"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/peterneave"
+    # - name: rss
+    #   url: "/rss"
+    - name: youtube
+      url: "https://youtube.com/peterneave"
+    - name: keybase
+      url: "https://keybase.io/peterneave"
 
   analytics:
     google:
@@ -97,7 +103,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/peterneave/peterneave.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -122,10 +128,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
