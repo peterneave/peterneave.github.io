@@ -76,18 +76,18 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
+    - name: rss
+      url: "/posts/index.xml"
     - name: github
       url: "https://github.com/peterneave"
-    - name: instagram
-      url: "https://instagram.com/peter_neave"
     - name: linkedin
       url: "https://www.linkedin.com/in/peterneave"
-    # - name: rss
-    #   url: "/rss"
-    - name: youtube
-      url: "https://youtube.com/peterneave"
     - name: keybase
       url: "https://keybase.io/peterneave"
+    - name: youtube
+      url: "https://youtube.com/peterneave"
+    - name: instagram
+      url: "https://instagram.com/peter_neave"
 
   analytics:
     google:
