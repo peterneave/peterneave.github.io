@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/peterneave
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://neave.dev
+  * I am peterneave (https://keybase.io/peterneave) on keybase.
+  * I have a public key ASBuwHjkaPAVFASh5t08TW4nNVEbCYj4MMgcMKBlBkbKEQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ec078e468f0151404a1e6dd3c4d6e2735511b0988f830c81c30a0650646ca110a",
+      "host": "keybase.io",
+      "kid": "01206ec078e468f0151404a1e6dd3c4d6e2735511b0988f830c81c30a0650646ca110a",
+      "uid": "23ea95ce709f1cab1542220a17fded19",
+      "username": "peterneave"
+    },
+    "merkle_root": {
+      "ctime": 1737114154,
+      "hash": "65e612c5ab1e44aa124208d42aad4c8e564453bbbe69073b87a7db73c2c3cf662c550f378b07aa1b6a8c69ac1b58163d41f7769e4423cce5929556be28da1077",
+      "hash_meta": "27517eeecff22d4d003e12826d618d18297447dffeceb3cefae3f0d754f952a4",
+      "seqno": 26459099
+    },
+    "service": {
+      "entropy": "PcGsxe5vDkciCECCbaxhsO7K",
+      "hostname": "neave.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1737114165,
+  "expire_in": 504576000,
+  "prev": "b284221d027ae2c3f9d5205f9cad8f1dfe1b6fba9681238025fa6a8a892ee8dc",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbsB45GjwFRQEoebdPE1uJzVRGwmI+DDIHDCgZQZGyhEKp3BheWxvYWTESpcCE8QgsoQiHQJ64sP51SBfnK2PHf4bb7qWgSOAJfpqioku6NzEIFjHFx4O8fvRIaDIIbLqFy5DmvdZl2WJBL8jKchniTSNAgHCo3NpZ8RAPnldUz4THrZcW6UzoKD7CGOBhiXbtFGq59IZbvKcN8+SShlcaFQG7sK1WawNK/hpUDo0fUCuOFM+eKzh7W3gCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGWEaHFNicV//+I9g8zcv3fbOdpSVsieRBBw7SU6bib/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peterneave
+
+==================================================================

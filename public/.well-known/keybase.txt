@@ -1,0 +1,68 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am peterneave on github.
+  * I am peterneave (https://keybase.io/peterneave) on keybase.
+  * I have a public key ASBuwHjkaPAVFASh5t08TW4nNVEbCYj4MMgcMKBlBkbKEQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ec078e468f0151404a1e6dd3c4d6e2735511b0988f830c81c30a0650646ca110a",
+      "host": "keybase.io",
+      "kid": "01206ec078e468f0151404a1e6dd3c4d6e2735511b0988f830c81c30a0650646ca110a",
+      "uid": "23ea95ce709f1cab1542220a17fded19",
+      "username": "peterneave"
+    },
+    "merkle_root": {
+      "ctime": 1737110849,
+      "hash": "30e4bcb88bdc2fcf5bb1cc8f8aca782920dd7ad000e5f8d7fdaa1b43facdc525c807673cf2155cb6051bed45d65261fb6f553fa9c2fb9caab89dc2689f0c6c2b",
+      "hash_meta": "ea40ff3818d311bd33a5fcdfcbfc0694e11cfaf85b0e095ea6b7a4a51092c6d1",
+      "seqno": 26458999
+    },
+    "service": {
+      "entropy": "oUaa91TPHnJkwi1QrN17BVo4",
+      "name": "github",
+      "username": "peterneave"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1737110872,
+  "expire_in": 504576000,
+  "prev": "d6ae1366d47545932647afbcec9e57552c86cb8795f148d1460d318559572bb8",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASBuwHjkaPAVFASh5t08TW4nNVEbCYj4MMgcMKBlBkbKEQo](https://keybase.io/peterneave), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbsB45GjwFRQEoebdPE1uJzVRGwmI+DDIHDCgZQZGyhEKp3BheWxvYWTESpcCDcQg1q4TZtR1RZMmR6+87J5XVSyGy4eV8UjRRg0xhVlXK7jEIE0JtxPM3J8C4RGxCj7NpxzQqtE3f/XS4PsrwvZRvvHcAgHCo3NpZ8RAAea9E1dpBkaNcCe/Wyb6AaA+jDRy77So6ijal7FnTgU9Ks23HMpPZVDqKA0t8cPnGZSo9ztwpxRlv4ZqBGZ5BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINwsaTqQF9+4Tv+7RtAQ4hgsJE2+M8kWTTxcAav7Svdpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/peterneave
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id peterneave
+```
+
