@@ -1,7 +1,8 @@
 baseURL: https://neave.dev/
 languageCode: en-us
 title: neave.dev
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
