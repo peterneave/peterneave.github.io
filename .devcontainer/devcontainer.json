@@ -6,6 +6,18 @@
 	"image": "mcr.microsoft.com/devcontainers/go:1-1.23-bookworm",
 	"features": {
 		"ghcr.io/devcontainers/features/hugo:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rusnasonov.vscode-hugo",
+				"budparr.language-hugo-vscode",
+				"fivethree.vscode-hugo-snippets",
+				"vivaxy.vscode-conventional-commits",
+				"streetsidesoftware.code-spell-checker",
+				"streetsidesoftware.code-spell-checker-australian-english"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
